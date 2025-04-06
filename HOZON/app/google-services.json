@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397163128448",
+    "project_id": "hozon-login-form",
+    "storage_bucket": "hozon-login-form.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397163128448:android:f4244d901a98977bb7a865",
+        "android_client_info": {
+          "package_name": "com.example.hozon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397163128448-66hnipomsrbtefnceo8isf2k1aosbje7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAg1fAyZWTPiYwre6mSL7fZj03qVEYhb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397163128448-66hnipomsrbtefnceo8isf2k1aosbje7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
